@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progress Shell Sharp", "Progress Shell Sharp.csproj", "{B3B1CA06-D49B-4024-ADEF-B021EA7D18FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3B1CA06-D49B-4024-ADEF-B021EA7D18FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B1CA06-D49B-4024-ADEF-B021EA7D18FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B1CA06-D49B-4024-ADEF-B021EA7D18FA}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{B3B1CA06-D49B-4024-ADEF-B021EA7D18FA}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{B3B1CA06-D49B-4024-ADEF-B021EA7D18FA}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{B3B1CA06-D49B-4024-ADEF-B021EA7D18FA}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
